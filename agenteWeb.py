@@ -12,7 +12,7 @@ estados = {
 st.title("Aplicación de Ruta Óptima")
 
 # Ruta de la imagen descargada en tu sistema
-ruta_imagen = r"C:/Users/diego/OneDrive/Escritorio/AgenteWeb/AgenteWeb/foto12.png"
+ruta_imagen = r"foto12.png"
 
 # Mostrar la imagen en Streamlit
 st.image(ruta_imagen, caption='Descripción de la imagen', use_column_width=True)

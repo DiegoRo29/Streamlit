@@ -10,7 +10,7 @@ estados = {
 
 # Parámetros de entrada (interacción con el usuario)
 st.title("Aplicación de Ruta Óptima")
-st.subtitle("Equipo")
+st.subheader("Equipo")
 st.write("Fernando Aguilar Gutiérrez")
 st.write("Juan Diego Rocha Olivera")
 

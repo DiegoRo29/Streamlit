@@ -10,6 +10,9 @@ estados = {
 
 # Parámetros de entrada (interacción con el usuario)
 st.title("Aplicación de Ruta Óptima")
+st.subtitle("Equipo")
+st.write("Fernando Aguilar Gutiérrez")
+st.write("Juan Diego Rocha Olivera")
 
 # Ruta de la imagen descargada en tu sistema
 ruta_imagen = r"foto12.png"
